@@ -1,0 +1,18 @@
+{
+    "level": 5,
+    "shards": [
+        {
+            "id": 1,
+            "dialog": [
+                { "name": "The Friend", "text": "OwO what's this ? Is this a shard 'w' ? Gimme nyaa~ >//< *nuzzle*" },
+                { "name": "Uranus", "text": "N-No, it's mine èwé ! Try to catch me tehee~" }
+        ]},
+        {
+            "id": 2,
+            "dialog": [
+                { "name": "The Friend", "text": "Another one yeayyyy !! You are too strong senpaiiii" },
+                { "name": "Uranus", "text": "Mwehehe thank u ^w^" }
+            ]
+        }
+    ]
+}
